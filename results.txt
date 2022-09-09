@@ -1,0 +1,82 @@
+Python For Beginners
+...started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, so jump in! Installing Installing Python is generally easy, and nowadays many Linux and UNIX distributions include a recent Python. Even some Windows computers (notably those from HP) now come with Python already installed. If you do need to install Python and aren't confident about the task you can find a few...
+
+
+Community
+...started, we've put together a list of resources: Diversity Statement: We want our community to be more varied, expressed in our diversity statement; whoever you are, and whatever your background, we welcome you. Conferences and Workshops Python Community Awards Special Interest Groups (SIGS) Internet Relay Chat (IRC) Logos Jobs Python T-Shirts and other merchandise (sales benefit the Python Software Foundation) Find more information about Getting Involved with the Python Software ...
+
+
+Job - Remote Sr. Python/Django/JavaScript Developers
+Location: Remote United States | Canada | Colombia
+Telecommuting: Yes
+Come help us build a more connected world! Stack Builders is now hiring Remote Senior Full-Stack Developers (Python/Django/JavaScript) ! You'll join our international team and be part of creating communication tools for other developers and organizations. If you consider yourself a team player who thinks outside of the box and …
+
+
+Python.org Maintenance and Administration
+Python.org Maintenance and Administration Warning This document is outdated. Please visit https://pythondotorg.readthedocs.io/ for up-to-date information about maintaining python.org. Python.org Maintenance and Administration This document is incomplete; we're updating it as questions come up. If you have questions, try the webmaster alias first, then pydotorg-www if you don't get a response. Getting Started To learn how to maintain the Python.org website, please read the Python.org Websi...
+
+
+2013-05-10 PSF Board Meeting Minutes
+...getting the final pick up numbers for 2013 and commission checks. Currently working on getting commission checks. PyCon Internet Nothing to report for April PyCon Printing Nothing to report for April PyCon Registration Management Worked on the open payment registrations with Jackie and Kurt. Currently working on getting payment from one last company before we close the books. PyCon Site Visits Worked on site visit for Diana to visit the Palais. Has to reschedule it for Ju...
+
+
+PEP 434 -- IDLE Enhancement Exception for All Branches
+...python.org/pipermail/python-dev/2012-November/122514.html) [3]Getting Started with Python (http://www.python.org/about/gettingstarted/) [4]Batteries Included (http://docs.python.org/2/tutorial/stdlib.html#batteries-included) [5]IDLE breakpoint facility undocumented, Deily, Ned (http://bugs.python.org/issue10405) [6]IDLE: calltips mishandle raw strings and other examples, Reedy, Terry (http://bugs.python.org/issue12510) [7]IDLE: replace ending with '' causes crash, Reedy,...
+
+
+Python Success Stories
+...Getting all three? Forget about it! But United Space Alliance (USA), NASA's main shuttle support contractor, had a mandate to provide software that meets all three criteria. Their experience with Python told them NASA's demands were within reach. Less than a year later, USA is nearing deployment of a Workflow Automation System (WAS) that meets or exceeds all of NASA's specifications. "Python allows us to tackle the complexity of programs like the WAS without getting bogged down in the langu...
+
+
+2013-06-14 PSF Board Meeting Minutes
+...python.org/psf/PSF%20Domains Progress The Gandi accounts were setup, access details sent to Kurt, Ewa, Noah. The ironpython.(net/com/org) domains were transferred to the PSF from Microsoft as first real-life test of the setup. I've registered the first batch of available "python" TLDs as discussed on the board list. These all redirect to python.org. Still pending is the registration of the python.china domain due to problems with the Chinese registry. I'm now busy with Kurt to ge...
+
+
+Python Software Foundation: Treasurer's Report (December 2003)
+Python Software Foundation: Treasurer's Report (December 2003) The Python Software Foundation Treasurer's Report December 2003 Outstanding Issues Need to update address & fax number on all PSF forms All Directors and Officers should verify their address is correct in the PSF CVS repository: psf/bod-addresses.txt This information is required for our yearly corporate filings. Vote on BizRate.com becoming pending sponsor as of Jan 1 (or Oct 1) Vote on ...
+
+
+Python Success Stories
+...Python: Automatically calculate image sizes? The Python Imaging Library does this with ease. Parse XML files? There are several XML parsers available in Python. Load and store XML to and from databases? The Python DB-API is standardized and modules exist for MySQL, Postgres, Interbase, Oracle, ODBC, Sybase, and others. Fetch XML from the web? Python's urlparse and urllib standard libraries were made for that. Handle Unicode? Python 2.0 fully supports Unicode out of the box. Implementing th...
+
+
+2011-01-24 PSF Board Meeting Minutes
+...started (http://docs.python.org/devguide/). As of this moment the pages related to getting someone set up to becoming a core developer are now done." As far as plans for next month's activities, Brett goes on to say: "The guides on how to make changes to the stdlib and the language will be done. There is also some doc cleanup in terms of moving things out of various PEPs and the Misc directory in Python's repo and over to the devguide. After that I will start the Python 2->3 porting...
+
+
+Python Software Foundation: Minutes of Board of Directors Meeting (Mar. 12, 2002)
+Python Software Foundation: Minutes of Board of Directors Meeting (Mar. 12, 2002) The Python Software Foundation Minutes of Regular Meeting of the Board of Directors March 12th, 2002. Board meeting in session at: 18:07 GMT Present: Guido van Rossum (presiding) David Ascher Jeremy Hylton Marc-Andre Lemburg Martin von Loewis Tim Peters Thomas Wouters (minutes) No board members were absent. A quorum was present. Agenda: Meeting minutes of February 12th 2002 Progress reports: 50...
+
+
+2011-11-21 PSF Board Meeting Minutes
+...python-dev or smaller Python projects to meet the requisite 40 example student tasks. Three accepted Python organizations (out of 18 total) is an overall win for the Python community. Smaller Python projects looking to get involved are welcome to contact one of the other Python organizations to get their tasks included in the December 16th task release. 5.4   Infrastructure Committee S. Reifschneider, Infrastructure Committee Chair, reported on continued activities from last mo...
+
+
+PEP 471 -- os.scandir() function -- a better and faster directory iterator
+...started on python-ideas about speeding up os.walk() Python Issue 11406, which includes the original proposal for a scandir-like function Further May 2013 thread Ben Hoyt started on python-dev that refined the scandir() API, including Nick Coghlan's suggestion of scandir yielding DirEntry-like objects November 2013 thread Ben Hoyt started on python-dev to discuss the interaction between scandir and the new pathlib module June 2014 thread Ben Hoyt started on python-dev to discuss the first version...
+
+
+Executive Summary: The Python Software Foundation
+...Python to your boss and encourage its use in internal projects. A company's use of Python in software testing, build scripting, and intranet applications is often followed by use of Python in its core products. Support your local Python user group, or start a new group in your area: http://wiki.python.org/moin/LocalUserGroups Attend or help out with your regional Python conference: http://www.python.org/community/workshops/ Work on Python or its standard libraries: http://www.python.org/dev/ No...
+
+
+Archive 2018: Executive Summary: The Python Software Foundation
+...Python to your boss and encourage its use in internal projects. A company's use of Python in software testing, build scripting, and intranet applications is often followed by use of Python in its core products. Support your local Python user group, or start a new group in your area: http://wiki.python.org/moin/LocalUserGroups Attend or help out with your regional Python conference: http://www.python.org/community/workshops/ Work on Python or its standard libraries: http://www.python.org/dev/ No...
+
+
+2011-07-18 PSF Board Meeting Minutes
+...Python Software House" which we expressed concern about. As a result, they renamed the company "STX Next - Python Experts." They also developed an attractive logo based on the new name, using the Flux Regular font to retain the connection with Python logos (but in a completely non-infringing way). I did mention that they need to work out permission for the font with its holder, and he was aware of that concern (but it's not within PSF purview to enforce such things). -...
+
+
+2011-02-28 PSF Board Meeting Minutes
+...python3wos.appspot.com/, or http://onpython3yet.com/ is that it will support manually specifying a project supports Python 3. IOW it will get around the issue of these sites accidentally spreading FUD about Python 3 adoption inherent in their reliance on only automated processes which rely on project maintainers to not be lazy. By allowing select people (initially) to mark projects as supporting Python 3 this will get around those limitations. Think http://getpython3.net/ but with PyPI project t...
+
+
+2011-12-19 PSF Board Meeting Minutes
+...with its own set of quirks and problems. Armin expects to have this done early in January. These are the available sponsorship plans we have available: http://brochure.getpython.info/sponsorship and here's the media data for the brochure: http://brochure.getpython.info/mediadata Esp. the reference entry sponsorships should be interesting for smaller Python companies: http://brochure.getpython.info/mediadata/reference-entry-guidelines (*) Subscription sponsors are sponsors that order boxes of ...
+
+
+2011-10-17 PSF Board Meeting Minutes
+...python.org Renewal completed 2011/Jun/23 jythonbook.org Transfer completed 2011/Mar/12 jythonbook.com Transfer completed 2011/Mar/12 pythonpulse.org Transfer completed 2011/Mar/12 pythonpulse.com Transfer completed 2011/Mar/12 planetpython.org Transfer completed 2010/Jun/23 Arc Riley does not have a contact for the ironpython domains. The pound-python.org domain contact cannot be reached, Arc is giving up on this. Sean also reported on the new activities for the month. H said: Arc Riley i...
+
+
